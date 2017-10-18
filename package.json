@@ -1,6 +1,6 @@
 {
   "name": "neutrino-preset-react-typescript",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "TypeScript preset based on neutrino-preset-react",
   "main": "index.js",
   "scripts": {
