@@ -1,0 +1,21 @@
+{
+  "name": "neutrino-preset-react-typescript",
+  "version": "1.0.0",
+  "description": "TypeScript preset based on neutrino-preset-react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "typescript",
+    "webpack",
+    "neutrino"
+  ],
+  "author": "Howard Yeh",
+  "license": "MIT",
+  "devDependencies": {
+    "neutrino-preset-react": "^7.1.3",
+    "ts-loader": "^3.0.2",
+    "typescript": "^2.5.3"
+  }
+}
